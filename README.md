@@ -122,7 +122,7 @@
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/villaralan11/villaralan11/output/snake.svg)
+![Contribution Snake](https://villaralan11.github.io/villaralan11/github-contribution-grid-snake.svg)
 
 </div>
 
