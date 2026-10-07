@@ -1,0 +1,39 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+        with:
+          repository: villaralan11/villaralan11
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README with fresh stats
+        run: |
+          # This workflow keeps the profile README stats fresh
+          # The badges in README are dynamic (github-readme-stats, streak-stats)
+          # They update automatically on each page load
+          echo "Profile README uses dynamic badges - no static update needed"
+          echo "Snake animation is handled by separate workflow"
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet; then
+            git add -A
+            git commit -m "chore: update profile README stats"
+            git push
+          else
+            echo "No changes to commit"
+          fi
