@@ -99,6 +99,7 @@
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---|
 | **[CECyT-3-Lab](https://github.com/villaralan11/CECyT-3-Lab)** | 🎓 Virtual lab for Physics, Chemistry & English with productive failure pedagogy | `Next.js 16` `React 19` `TypeScript` `Tailwind 4` `Prisma` `3Dmol` | 🚀 **Live** [cecyt3-lab.vercel.app](https://cecyt3-lab.vercel.app) |
+| **[mi-portafolio](https://github.com/villaralan11/mi-portafolio)** | 💼 Personal portfolio — software + hardware & IoT projects | `HTML` `CSS` `JS` | 🚀 **Live** [mi-portafolio-phi-six.vercel.app](https://mi-portafolio-phi-six.vercel.app) |
 | **[trading-bot](https://github.com/villaralan11/trading-bot)** | 🤖 Disciplined DCA bot for Binance — 11 strategies tested, documented pivot to automation | `Python` `CCXT` `Pandas` `Binance API` | ✅ **Testnet validated** 16+ trades |
 
 </div>
