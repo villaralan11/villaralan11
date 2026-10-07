@@ -1,12 +1,12 @@
-# ðŸ‘‹ Hi, I'm Alan Antonio Molina Villar
+# 👋 Hi, I'm Alan Antonio Molina Villar
 
 <div align="center">
 
-  **Fullstack Developer Â· Python Automation Â· IPN Student**
+  **Fullstack Developer · Python Automation · IPN Student**
 
   *Building educational technology & trading tools that solve real problems*
 
-  [![Live Demo](https://img.shields.io/badge/ðŸš€_Live_Demo-CECyT_3_Lab-000?style=for-the-badge&logo=vercel)](https://cecyt3-lab.vercel.app)
+  [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-CECyT_3_Lab-000?style=for-the-badge&logo=vercel)](https://cecyt3-lab.vercel.app)
   [![GitHub](https://img.shields.io/badge/GitHub-villaralan11-181717?style=for-the-badge&logo=github)](https://github.com/villaralan11)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alan-villar)
 
@@ -14,25 +14,25 @@
 
 ---
 
-## ðŸŽ¯ About Me
+## 🎯 About Me
 
 <div align="center">
 
-| ðŸŽ“ **Education** | ðŸ’¼ **Focus** | ðŸŒ **Location** |
+| 🎓 **Education** | 💼 **Focus** | 🌍 **Location** |
 |:---:|:---:|:---:|
-| CECyT No. 3 "Estanislao RamÃ­rez Ruiz" â€” IPN | Fullstack (TS/React/Next.js) + Python Automation | EDOMEX, MÃ©xico |
+| CECyT No. 3 "Estanislao Ramírez Ruiz" — IPN | Fullstack (TS/React/Next.js) + Python Automation | EDOMEX, México |
 
 </div>
 
-- ðŸ”­ **Currently building:** [CECyT-3-Lab](https://github.com/villaralan11/CECyT-3-Lab) â€” Interactive virtual lab for Physics, Chemistry & English (Next.js 16, React 19, TypeScript, Tailwind 4)
-- ðŸ¤– **Automation enthusiast:** [trading-bot](https://github.com/villaralan11/trading-bot) â€” Disciplined DCA bot for Binance with 11 failed strategy attempts documented (lessons learned!)
-- ðŸ“š **Learning:** Advanced TypeScript patterns, System Design, Rust basics
-- ðŸ’¡ **Philosophy:** *Fail productively â†’ Learn systematically â†’ Build reliably*
-- ðŸ¤ **Open to:** Junior/Intern roles, freelance projects, open source collaboration
+- 🔭 **Currently building:** [CECyT-3-Lab](https://github.com/villaralan11/CECyT-3-Lab) — Interactive virtual lab for Physics, Chemistry & English (Next.js 16, React 19, TypeScript, Tailwind 4)
+- 🤖 **Automation enthusiast:** [trading-bot](https://github.com/villaralan11/trading-bot) — Disciplined DCA bot for Binance with 11 failed strategy attempts documented (lessons learned!)
+- 📚 **Learning:** Advanced TypeScript patterns, System Design, Rust basics
+- 💡 **Philosophy:** *Fail productively → Learn systematically → Build reliably*
+- 🤝 **Open to:** Junior/Intern roles, freelance projects, open source collaboration
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -92,33 +92,33 @@
 
 ---
 
-## ðŸ† Featured Projects
+## 🏆 Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---|
-| **[CECyT-3-Lab](https://github.com/villaralan11/CECyT-3-Lab)** | ðŸŽ“ Virtual lab for Physics, Chemistry & English with productive failure pedagogy | `Next.js 16` `React 19` `TypeScript` `Tailwind 4` `Prisma` `3Dmol` | ðŸš€ **Live** [cecyt3-lab.vercel.app](https://cecyt3-lab.vercel.app) |
-| **[trading-bot](https://github.com/villaralan11/trading-bot)** | ðŸ¤– Disciplined DCA bot for Binance â€” 11 strategies tested, documented pivot to automation | `Python` `CCXT` `Pandas` `Binance API` | âœ… **Testnet validated** 16+ trades |
+| **[CECyT-3-Lab](https://github.com/villaralan11/CECyT-3-Lab)** | 🎓 Virtual lab for Physics, Chemistry & English with productive failure pedagogy | `Next.js 16` `React 19` `TypeScript` `Tailwind 4` `Prisma` `3Dmol` | 🚀 **Live** [cecyt3-lab.vercel.app](https://cecyt3-lab.vercel.app) |
+| **[trading-bot](https://github.com/villaralan11/trading-bot)** | 🤖 Disciplined DCA bot for Binance — 11 strategies tested, documented pivot to automation | `Python` `CCXT` `Pandas` `Binance API` | ✅ **Testnet validated** 16+ trades |
 
 </div>
 
-### ðŸŽ“ CECyT-3-Lab Highlights
+### 🎓 CECyT-3-Lab Highlights
 - **10 interactive modules** across 3 subjects (Physics, Chemistry, English)
-- **Pedagogical sequence:** Productive Failure â†’ Simulator â†’ Worked Example
-- **38 tests** (Vitest + Playwright) Â· WCAG AA Â· Touch-friendly (44px targets)
+- **Pedagogical sequence:** Productive Failure → Simulator → Worked Example
+- **38 tests** (Vitest + Playwright) · WCAG AA · Touch-friendly (44px targets)
 - **Design system** with subject-based color tokens (Emerald/Fuchsia/Amber)
 - **Documentation:** Project Charter, Roadmap, WBS, Design System, Pilot Report with statistical analysis
 
-### ðŸ¤– trading-bot Highlights
-- **Scientific approach:** 11 strategies tested (SMA, RSI, Arbitrage) â†’ all failed out-of-sample
+### 🤖 trading-bot Highlights
+- **Scientific approach:** 11 strategies tested (SMA, RSI, Arbitrage) → all failed out-of-sample
 - **Documented lessons:** Survivor bias, overfitting, real costs (fees+slippage), 30-trade minimum rule
 - **Robust DCA:** Non-blocking file locks, multi-currency, testnet/mainnet toggle, CSV logging
-- **GitHub Actions** configured (blocked by Binance IP restrictions â€” documented workaround)
+- **GitHub Actions** configured (blocked by Binance IP restrictions — documented workaround)
 
 ---
 
-## ðŸ“ˆ Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -128,7 +128,7 @@
 
 ---
 
-## ðŸ“« Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -144,14 +144,14 @@
 
 *"Code is read more than written. Make it readable, testable, and honest."*
 
-**â­ Star my repos if you find them useful!**
+**⭐ Star my repos if you find them useful!**
 
 </div>
 
 ---
 
 <details>
-<summary>ðŸ¤– <strong>This profile README is generated/updated via GitHub Actions</strong></summary>
+<summary>🤖 <strong>This profile README is generated/updated via GitHub Actions</strong></summary>
 
 - Stats cards: `github-readme-stats` (Vercel)
 - Streak: `github-readme-streak-stats` (Heroku)
