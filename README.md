@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Alan Antonio Molina Villar
+# Hi, I'm Alan Antonio Molina Villar
 
 <div align="center">
 
   **Fullstack Developer · Python Automation · IPN Student**
 
-  *Building educational technology & trading tools that solve real problems*
+  *Building educational technology, IoT & trading tools that solve real problems*
 
-  [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-CECyT_3_Lab-000?style=for-the-badge&logo=vercel)](https://cecyt3-lab.vercel.app)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-CECyT_3_Lab-000?style=for-the-badge&logo=vercel)](https://cecyt3-lab.vercel.app)
   [![GitHub](https://img.shields.io/badge/GitHub-villaralan11-181717?style=for-the-badge&logo=github)](https://github.com/villaralan11)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alan-villar)
 
@@ -14,25 +14,26 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 <div align="center">
 
-| 🎓 **Education** | 💼 **Focus** | 🌍 **Location** |
+| **Education** | **Focus** | **Location** |
 |:---:|:---:|:---:|
-| CECyT No. 3 "Estanislao Ramírez Ruiz" — IPN | Fullstack (TS/React/Next.js) + Python Automation | EDOMEX, México |
+| CECyT No. 3 "Estanislao Ramírez Ruiz" — IPN | Fullstack (TS/React/Next.js) + Python Automation + IoT | EDOMEX, México |
 
 </div>
 
-- 🔭 **Currently building:** [CECyT-3-Lab](https://github.com/villaralan11/CECyT-3-Lab) — Interactive virtual lab for Physics, Chemistry & English (Next.js 16, React 19, TypeScript, Tailwind 4)
-- 🤖 **Automation enthusiast:** [trading-bot](https://github.com/villaralan11/trading-bot) — Disciplined DCA bot for Binance with 11 failed strategy attempts documented (lessons learned!)
-- 📚 **Learning:** Advanced TypeScript patterns, System Design, Rust basics
-- 💡 **Philosophy:** *Fail productively → Learn systematically → Build reliably*
-- 🤝 **Open to:** Junior/Intern roles, freelance projects, open source collaboration
+- **Currently building:** [CECyT-3-Lab](https://github.com/villaralan11/CECyT-3-Lab) — Interactive virtual lab for Physics, Chemistry & English (Next.js 16, React 19, TypeScript, Tailwind 4)
+- **IoT & AI:** [SCARI](https://github.com/villaralan11/scari) — Smart waste-sorting bin with ESP32 + Groq AI vision
+- **Automation enthusiast:** [trading-bot](https://github.com/villaralan11/trading-bot) — Disciplined DCA bot for Binance with 11 failed strategy attempts documented
+- **Learning:** Advanced TypeScript patterns, System Design, Rust basics
+- **Philosophy:** *Fail productively → Learn systematically → Build reliably*
+- **Open to:** Junior/Intern roles, freelance projects, open source collaboration
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -55,6 +56,12 @@
 ![CCXT](https://img.shields.io/badge/CCXT-000000?style=for-the-badge&logo=crypto&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+### **IoT & Embedded**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-FF0000?style=for-the-badge&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-660099?style=for-the-badge&logo=freertos&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
 ### **Testing & Quality**
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -72,7 +79,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -92,26 +99,37 @@
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack | Status |
 |:---|:---|:---|:---|
-| **[CECyT-3-Lab](https://github.com/villaralan11/CECyT-3-Lab)** | 🎓 Virtual lab for Physics, Chemistry & English with productive failure pedagogy | `Next.js 16` `React 19` `TypeScript` `Tailwind 4` `Prisma` `3Dmol` | 🚀 **Live** [cecyt3-lab.vercel.app](https://cecyt3-lab.vercel.app) |
-| **[mi-portafolio](https://github.com/villaralan11/mi-portafolio)** | 💼 Personal portfolio — software + hardware & IoT projects | `HTML` `CSS` `JS` | 🚀 **Live** [mi-portafolio-phi-six.vercel.app](https://mi-portafolio-phi-six.vercel.app) |
-| **[trading-bot](https://github.com/villaralan11/trading-bot)** | 🤖 Disciplined DCA bot for Binance — 11 strategies tested, documented pivot to automation | `Python` `CCXT` `Pandas` `Binance API` | ✅ **Testnet validated** 16+ trades |
+| **[SCARI](https://github.com/villaralan11/scari)** | Smart waste-sorting bin with AI vision — ESP32-CAM captures, Groq AI classifies organic vs inorganic, NEMA 17 sorts | `ESP32-S3` `ESP32-CAM` `Arduino` `Groq API` `AI Vision` | **In development** |
+| **[CECyT-3-Lab](https://github.com/villaralan11/CECyT-3-Lab)** | Virtual lab for Physics, Chemistry & English with productive failure pedagogy | `Next.js 16` `React 19` `TypeScript` `Tailwind 4` `Prisma` `3Dmol` | **Live** [cecyt3-lab.vercel.app](https://cecyt3-lab.vercel.app) |
+| **[mi-portafolio](https://github.com/villaralan11/mi-portafolio)** | Personal portfolio — software + hardware & IoT projects | `HTML` `CSS` `JS` | **Live** [mi-portafolio-phi-six.vercel.app](https://mi-portafolio-phi-six.vercel.app) |
+| **[trading-bot](https://github.com/villaralan11/trading-bot)** | Disciplined DCA bot for Binance — 11 strategies tested, documented pivot to automation | `Python` `CCXT` `Pandas` `Binance API` | **Testnet validated** 16+ trades |
 
 </div>
 
-### 🎓 CECyT-3-Lab Highlights
+### SCARI Highlights
+- **Smart waste-sorting bin** that classifies trash into organic vs inorganic using AI vision
+- **ESP32-CAM** captures frames → **ESP32-S3** classifies via **Groq API** (`llama-4-scout-17b-16e-instruct`)
+- **NEMA 17 stepper motor** sorts waste into compartments with trapezoidal acceleration profile
+- **Native RGB LED** (WS2812 on GPIO48) provides instant visual feedback
+- **Async web portal** with live dashboard, accuracy gauge, history log, and REST API
+- **Fully documented** — architecture, hardware wiring, API config, troubleshooting guide
+
+> *"The user just drops the trash — SCARI detects, classifies, and sorts it all by itself."*
+
+### CECyT-3-Lab Highlights
 - **10 interactive modules** across 3 subjects (Physics, Chemistry, English)
 - **Pedagogical sequence:** Productive Failure → Simulator → Worked Example
 - **38 tests** (Vitest + Playwright) · WCAG AA · Touch-friendly (44px targets)
 - **Design system** with subject-based color tokens (Emerald/Fuchsia/Amber)
 - **Documentation:** Project Charter, Roadmap, WBS, Design System, Pilot Report with statistical analysis
 
-### 🤖 trading-bot Highlights
+### trading-bot Highlights
 - **Scientific approach:** 11 strategies tested (SMA, RSI, Arbitrage) → all failed out-of-sample
 - **Documented lessons:** Survivor bias, overfitting, real costs (fees+slippage), 30-trade minimum rule
 - **Robust DCA:** Non-blocking file locks, multi-currency, testnet/mainnet toggle, CSV logging
@@ -119,7 +137,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -129,7 +147,7 @@
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -145,14 +163,14 @@
 
 *"Code is read more than written. Make it readable, testable, and honest."*
 
-**⭐ Star my repos if you find them useful!**
+**Star my repos if you find them useful!**
 
 </div>
 
 ---
 
 <details>
-<summary>🤖 <strong>This profile README is generated/updated via GitHub Actions</strong></summary>
+<summary><strong>This profile README is generated/updated via GitHub Actions</strong></summary>
 
 - Stats cards: `github-readme-stats` (Vercel)
 - Streak: `github-readme-streak-stats` (Heroku)
