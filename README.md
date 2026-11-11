@@ -9,6 +9,7 @@
   [![Live Demo](https://img.shields.io/badge/Live_Demo-CECyT_3_Lab-000?style=for-the-badge&logo=vercel)](https://cecyt3-lab.vercel.app)
   [![GitHub](https://img.shields.io/badge/GitHub-villaralan11-181717?style=for-the-badge&logo=github)](https://github.com/villaralan11)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alan-villar)
+  [![Facebook](https://img.shields.io/badge/Facebook-Agencia_de_Páginas_Web-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596500398490)
 
 </div>
 
@@ -108,6 +109,7 @@
 | **[SCARI](https://github.com/villaralan11/scari)** | Smart waste-sorting bin with AI vision — ESP32-CAM captures, Groq AI classifies organic vs inorganic, NEMA 17 sorts. **Fully documented & tested** | `ESP32-S3` `ESP32-CAM` `Arduino` `Groq API` `AI Vision` | **Completed** |
 | **[CECyT-3-Lab](https://github.com/villaralan11/CECyT-3-Lab)** | Virtual lab for Physics, Chemistry & English with productive failure pedagogy | `Next.js 16` `React 19` `TypeScript` `Tailwind 4` `Prisma` `3Dmol` | **Live** [cecyt3-lab.vercel.app](https://cecyt3-lab.vercel.app) |
 | **[mi-portafolio](https://github.com/villaralan11/mi-portafolio)** | Personal portfolio — software + hardware & IoT projects | `HTML` `CSS` `JS` | **Live** [mi-portafolio-phi-six.vercel.app](https://mi-portafolio-phi-six.vercel.app) |
+| **[tacos-el-compadre](https://github.com/villaralan11/tacos-el-compadre)** | Sitio estático de ejemplo para clientes (taquería) — portafolio de agencia | `HTML` `CSS` `JS` | **Live** [tacos-el-compadre.vercel.app](https://tacos-el-compadre.vercel.app) |
 | **[trading-bot](https://github.com/villaralan11/trading-bot)** | Disciplined DCA bot for Binance — 11 strategies tested, documented pivot to automation | `Python` `CCXT` `Pandas` `Binance API` | **Testnet validated** 16+ trades |
 
 </div>
@@ -147,6 +149,15 @@
 
 ---
 
+## Agencia — Páginas Web para Negocios
+
+Diseño y desarrollo **páginas web estáticas y rápidas** para negocios locales (taquerías, restaurantes, servicios, etc.). Sitios listos para Vercel/Netlify/GitHub Pages, con WhatsApp integrado, SEO básico y mantenimiento sencillo.
+
+- **Portafolio de ejemplo:** [Tacos El Compadre](https://tacos-el-compadre.vercel.app) · [Repo](https://github.com/villaralan11/tacos-el-compadre)
+- **Contacto / cotizaciones:** [Facebook — Agencia](https://www.facebook.com/profile.php?id=61596500398490)
+
+---
+
 ## Let's Connect
 
 <div align="center">
@@ -154,6 +165,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-villaralan11-181717?style=for-the-badge&logo=github)](https://github.com/villaralan11)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alan.villar@ipn.mx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alan-villar)
+[![Facebook](https://img.shields.io/badge/Facebook-Agencia_de_Páginas_Web-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61596500398490)
 
 </div>
 
